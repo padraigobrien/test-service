@@ -9,7 +9,7 @@ Start write your documentation by adding more markdown (.md) files to this folde
 ## Table of Contents
 
 The Table of Contents on the right is generated automatically based on the hierarchy
-of headings. Only use one H1 (`#` in Markdown) per file
+of headings. Only use one H1 (`#` in Markdown) per fil
 
 ## Site navigation
 
