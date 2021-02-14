@@ -14,6 +14,7 @@ of headings. Only use one H1 (`#` in Markdown) per file
 ## Site navigation
 
 For new pages to appear in the left hand navigation you need edit the `mkdocs.yml`
+
 file in root of your repo. The navigation can also link out to other sites.
 
 Alternatively, if there is no `nav` section in `mkdocs.yml`, a navigation section
