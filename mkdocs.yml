@@ -1,0 +1,8 @@
+site_name: "Service2"
+site_description: "Adding more documentatio "
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

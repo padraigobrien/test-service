@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Service2"
+  description: "Adding more documentatio "
+  annotations:
+    github.com/project-slug: padraigobrien/test-service
+    backstage.io/techdocs-ref: url:https://github.com/padraigobrien/test-service
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "padraigobrien"
