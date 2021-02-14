@@ -1,6 +1,6 @@
 ## Service2
 
-Adding more documentatio 
+Adding more documentation
 
 ## Getting started
 
