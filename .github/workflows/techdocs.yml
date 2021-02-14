@@ -26,6 +26,8 @@ jobs:
       # ENTITY_NAME: '{{ cookiecutter.component_id | jsonify }}'
 
     steps:
+      - name: Env variables
+      - run: echo ${{ secrets.TECHDOCS_S3_BUCKET_NAME }}
       - name: Checkout code
         uses: actions/checkout@v2
 
