@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "Service2"
+  name: "Testdocs2"
   description: "Adding more documentatio "
   annotations:
     github.com/project-slug: padraigobrien/test-service
